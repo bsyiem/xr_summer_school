@@ -10,4 +10,9 @@ plugins:
   - jekyll-include-cache
 
 defaults:
-  author_profile: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      author_profile: true
