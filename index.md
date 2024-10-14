@@ -5,6 +5,7 @@ excerpt: ""
 header:
   overlay_image: /assets/hero_image/4.jpeg
   overlay_filter: 0.5 
+  caption: WHAT
 
 intro: 
   - excerpt: 'It is an incredibly exciting time for XR research! With immersive technologies rapidly advancing, we are at the brink of wider commercial adoption of MR and VR headsets. Research in this area can shape the future of how we work, learn, play, and socialise.'
