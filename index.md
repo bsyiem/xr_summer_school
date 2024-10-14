@@ -58,4 +58,18 @@ This summer school is ideal for:
 Application deadline: 01/12/2024
 Notification: 07/12/2024
 
+### What you need to apply
 
+We will ask for the following information on a google form:
+
+- Name:
+- 2 page CV:
+- A statement of interest (max. 500 words), explaining your motivation for attending the summer school and how it aligns with your research or professional goals
+- Optional: A brief description of any ongoing or planned research in XR
+- Current occupation:
+  - Bachelor’s/Honours, Master’s, PhD, Post-doc, Other______
+-If enrolled in a degree or post-doc:
+  - In which year are you?___
+- Which university?___
+  - Which faculty?___
+  - Who is your research supervisor? ___
