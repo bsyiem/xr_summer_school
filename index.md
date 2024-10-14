@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "XR Research Methods Summer School"
 excerpt: ""
 header:
