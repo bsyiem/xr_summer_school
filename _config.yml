@@ -8,3 +8,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+defaults:
+  author_profile: true
