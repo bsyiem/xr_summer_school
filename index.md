@@ -24,6 +24,11 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+author_profile: true
+author:
+  name: "Your Name"
+  avatar: "/assets/images/bio-photo.jpg"
 ---
 
 {% include feature_row id="intro" type="justified" %}
