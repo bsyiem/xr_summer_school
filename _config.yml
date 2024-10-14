@@ -19,5 +19,5 @@ defaults:
       author_profile: true
 
 author:
-  name: "Your Name"
-  avatar: "/assets/images/bio-photo.jpg"
+  name: "The University of Sydney"
+  avatar: "/assets/logo/logo.png"
