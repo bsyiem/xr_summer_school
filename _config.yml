@@ -10,14 +10,14 @@ plugins:
   - jekyll-include-cache
 
 
-#defaults:
-#  -
-#    scope:
-#      path: ""
-#      type: "pages"
-#    values:
-#      author_profile: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      author_profile: true
 
-#author:
-#  name: "Your Name"
-#  avatar: "/assets/images/bio-photo.jpg"
+author:
+  name: "Your Name"
+  avatar: "/assets/images/bio-photo.jpg"
