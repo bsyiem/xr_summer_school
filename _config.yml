@@ -9,14 +9,15 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      author_profile: true
 
-author:
-  name: "Your Name"
-  avatar: "/assets/images/bio-photo.jpg"
+#defaults:
+#  -
+#    scope:
+#      path: ""
+#      type: "pages"
+#    values:
+#      author_profile: true
+
+#author:
+#  name: "Your Name"
+#  avatar: "/assets/images/bio-photo.jpg"
