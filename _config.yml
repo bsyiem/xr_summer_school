@@ -16,3 +16,7 @@ defaults:
       type: "pages"
     values:
       author_profile: true
+
+author:
+  name: "Your Name"
+  avatar: "/assets/images/bio-photo.jpg"
