@@ -11,12 +11,12 @@ intro:
   - excerpt: 'It is an incredibly exciting time for XR research! With immersive technologies rapidly advancing, we are at the brink of wider commercial adoption of MR and VR headsets. Research in this area can shape the future of how we work, learn, play, and socialise.'
 feature_row:
   - image_path: /assets/feature_row/call.jpeg
-    title: "Call for Participation"
-    url: "#test-link"
+    title: "Call"
+    url: "#call-for-participation"
     btn_label: "Read More"
     btn_class: "btn--primary" 
   - image_path: /assets/feature_row/requirements.jpeg
-    title: "Who Should Apply?"
+    title: "Schedule"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary" 
@@ -30,3 +30,27 @@ feature_row:
 {% include feature_row id="intro" type="justified" %}
 
 {% include feature_row %}
+
+#Call for Participation
+
+We are thrilled to invite applications for the XR Research Methods Summer School, a five-day intensive program on 06-10 January 2025 at the University of Sydney. This program is designed for graduate students, researchers, and professionals eager to learn cutting-edge research methods in the rapidly evolving field of extended reality (XR), encompassing virtual, augmented, and mixed realities.
+
+
+The program will cover:
+Developing theory in XR research
+Designing experiments
+Measures and instruments for XR user experience evaluation
+Bayesian data analysis methods
+?
+?
+
+##Who Should Apply?
+
+This summer school is ideal for:
+
+- PhD students pursuing degrees in Human-Computer Interaction, Psychology, Cognitive Science, Computer Science, or related fields..
+- Master’s or Honour’s students interested in pursuing a PhD related to XR.
+- Early-career researchers and academics looking to expand their methodological toolkit for XR research.
+
+Application deadline: 01/12/2024
+Notification: 07/12/2024
