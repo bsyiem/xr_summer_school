@@ -20,7 +20,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary" 
   - image_path: /assets/feature_row/instructors.jpeg
-    title: "Your Instructors"
+    title: "Instructors"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
