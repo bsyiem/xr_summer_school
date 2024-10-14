@@ -1,5 +1,6 @@
 ---
-layout: splash
+layout: single
+classes: wide
 title: "XR Research Methods Summer School"
 excerpt: ""
 header:
