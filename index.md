@@ -135,8 +135,7 @@ We will ask for the following information on a google form:
 | Module 17 | Ethics? Or too boring? | | Any takers? |
 
 
-Right aligned text.
-{: .text-right}
+Right aligned text. {: .text-right}
 
 ## Reading
 
