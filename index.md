@@ -20,7 +20,7 @@ feature_row:
     btn_class: "btn--primary" 
   - image_path: /assets/feature_row/requirements.jpeg
     title: "Schedule"
-    url: "#test-link"
+    url: "#schedule"
     btn_label: "Read More"
     btn_class: "btn--primary" 
   - image_path: /assets/feature_row/instructors.jpeg
