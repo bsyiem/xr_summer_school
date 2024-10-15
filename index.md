@@ -65,11 +65,9 @@ We are thrilled to invite applications for the XR Research Methods Summer School
 - ?
 - ?
 
-</div>
 
 ## Who Should Apply?
 
-<div style = "font-size: medium">
 This summer school is ideal for:
 
 - PhD students pursuing degrees in Human-Computer Interaction, Psychology, Cognitive Science, Computer Science, or related fields..
@@ -78,11 +76,9 @@ This summer school is ideal for:
 
 Application deadline: 01/12/2024 <br/>
 Notification: 07/12/2024
-</div>
 
 ### What you need to apply
 
-<div style = "font-size: medium">
 We will ask for the following information on a google form:
 
 - Name:
@@ -96,7 +92,6 @@ We will ask for the following information on a google form:
   - Which university?___
   - Which faculty?___
   - Who is your research supervisor? ___
-</div>
 ---
 
 # Schedule 
