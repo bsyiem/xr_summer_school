@@ -34,25 +34,25 @@ instructor_row:
     title: "Prof. Eduardo Velloso (U. Sydney)"
     excerpt: "MINI BIO HERE"
     url: "https://www.eduardovelloso.com/"
-    btn_label: "Read More"
+    btn_label: "Visit Homepage"
     btn_class: "btn--primary"
   - image_path: /assets/instructors/kasper.png
     title: "Prof. Kasper Hornbæk (U. Copenhagen)"
     excerpt: "MINI BIO HERE"
     url: "https://www.kasperhornbaek.dk/"
-    btn_label: "Read More"
+    btn_label: "Visit Homepage"
     btn_class: "btn--primary"
   - image_path: /assets/instructors/joanna.png
     title: "A/Prof. Joanna Bergström (U. Copenhagen)"
     excerpt: "MINI BIO HERE"
     url: "https://researchprofiles.ku.dk/en/persons/joanna-bergstr%C3%B6m"
-    btn_label: "Read More"
+    btn_label: "Visit Homepage"
     btn_class: "btn--primary"
   - image_path: /assets/instructors/jarrod.png
     title: "Dr Jarrod Knibbe (U. Queensland)"
     excerpt: "MINI BIO HERE"
     url: "https://www.jarrodknibbe.info/"
-    btn_label: "Read More"
+    btn_label: "Visit Homepage"
     btn_class: "btn--primary"
 ---
 
