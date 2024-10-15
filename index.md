@@ -103,7 +103,7 @@ We will ask for the following information on a google form:
   - Who is your research supervisor? ___
  
 Apply <a href="#top">HERE</a>
-{: .notice}
+{: .notice--danger}
 
 <br/>
 ---
