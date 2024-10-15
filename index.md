@@ -65,7 +65,7 @@ The program will cover:
 - ?
 
 
-## Who Should Apply?
+<div style = "font-size: large"> Who Should Apply? </div>
 
 This summer school is ideal for:
 
@@ -93,7 +93,7 @@ We will ask for the following information on a google form:
   - Who is your research supervisor? ___
 
 <br/>
-<br/>
+---
 
 # Program 
 
@@ -159,4 +159,4 @@ Taxis/Uber/Didi: <br/>
 Hotels: <br/>
 
 <br/>
-<br/>
+---
