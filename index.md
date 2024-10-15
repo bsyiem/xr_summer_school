@@ -101,6 +101,9 @@ We will ask for the following information on a google form:
   - Which university?___
   - Which faculty?___
   - Who is your research supervisor? ___
+ 
+Apply [HERE](#xr-research-methods-summer-school)
+{: .notice}
 
 <br/>
 ---
