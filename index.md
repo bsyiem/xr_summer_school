@@ -144,4 +144,14 @@ We will ask for the following information on a google form:
 | McGrath: Methodology Matters | Kasper | | | Yes |
 | Hornbæk et al. User Research in HCI | Kasper | | | Yes |
 
+## Logistics
 
+Venue: <br/>
+
+Public transport: <br/>
+
+BIke share: <br/>
+
+Taxis/Uber/Didi: <br/>
+
+Hotels: <br/>
