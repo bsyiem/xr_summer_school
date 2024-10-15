@@ -28,6 +28,23 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+instructor_row:
+  - image_path: /assets/feature_row/call.jpeg
+    title: "Call"
+    url: "#call-for-participation"
+    btn_label: "Read More"
+    btn_class: "btn--primary" 
+  - image_path: /assets/feature_row/requirements.jpeg
+    title: "Schedule"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary" 
+  - image_path: /assets/feature_row/instructors.jpeg
+    title: "Instructors"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="justified" %}
@@ -73,3 +90,10 @@ We will ask for the following information on a google form:
   - Which university?___
   - Which faculty?___
   - Who is your research supervisor? ___
+
+# Schedule \& Modules
+
+| Time | Monday | Tuesday | Wednesday | Thursday | Friday |
+| ---  | ---    | ---     | ---       | ---      | ---    |
+| 9:00-9:15 | Opening |
+| 9:15-10:45 | ** Module 1: Philosophy of Science ** - Eduardo | ** Module 5: Multiple regression ** - Eduardo | ** Module 10 + 11: Finding interesting problems ** - Kasper | ** ACTIVITY 4: Finishing Building ** | * Module 13 and Activity 7: ** - TODO | 
