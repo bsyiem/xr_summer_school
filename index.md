@@ -135,3 +135,17 @@ We will ask for the following information on a google form:
 | Module 17 | Ethics? Or too boring? | | Any takers? |
 
 
+Right aligned text.
+{: .text-right}
+
+## Reading
+
+| Reading | Spaeker | Module | Pages | Required |
+| ---    | ---   | ---      | ---     | ---     |
+| Velloso and Hornbaek - Theorising in HCI with causal models | Eduardo | 2 | | Yes |
+| Velloso - Quantitative research methods for Human-Computer Interaction (book draft) | Eduardo | 1-9 | | Yes |
+| Oulasvirta and Hornbæk: HCI as problem solving | Kasper | | | Yes |
+| McGrath: Methodology Matters | Kasper | | | Yes |
+| Hornbæk et al. User Research in HCI | Kasper | | | Yes |
+
+
