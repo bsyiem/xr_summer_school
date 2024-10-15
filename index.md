@@ -30,31 +30,19 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-instructor_row:
-  - image_path: /assets/instructors/eduardo.png
+gallery:
+  - url: "https://www.eduardovelloso.com/"
+    image_path: /assets/instructors/eduardo.png
     title: "Prof. Eduardo Velloso (U. Sydney)"
-    excerpt: "MINI BIO HERE"
-    url: "https://www.eduardovelloso.com/"
-    btn_label: "Visit Homepage"
-    btn_class: "btn--primary"
-  - image_path: /assets/instructors/kasper.png
+  - url: "https://www.kasperhornbaek.dk/"
+    image_path: /assets/instructors/kasper.png
     title: "Prof. Kasper Hornbæk (U. Copenhagen)"
-    excerpt: "MINI BIO HERE"
-    url: "https://www.kasperhornbaek.dk/"
-    btn_label: "Visit Homepage"
-    btn_class: "btn--primary"
-  - image_path: /assets/instructors/joanna.png
+  - url: "https://researchprofiles.ku.dk/en/persons/joanna-bergstr%C3%B6m"
+    image_path: /assets/instructors/joanna.png
     title: "A/Prof. Joanna Bergström (U. Copenhagen)"
-    excerpt: "MINI BIO HERE"
-    url: "https://researchprofiles.ku.dk/en/persons/joanna-bergstr%C3%B6m"
-    btn_label: "Visit Homepage"
-    btn_class: "btn--primary"
-  - image_path: /assets/instructors/jarrod.png
+  - url: "https://www.jarrodknibbe.info/"
+    image_path: /assets/instructors/jarrod.png
     title: "Dr Jarrod Knibbe (U. Queensland)"
-    excerpt: "MINI BIO HERE"
-    url: "https://www.jarrodknibbe.info/"
-    btn_label: "Visit Homepage"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="justified" %}
@@ -176,5 +164,5 @@ Hotels: <br/>
 
 # Instructors
 
-{% include feature_row id="instructor_row" type = "left" %}
+{% include gallery %}
 
