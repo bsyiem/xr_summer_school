@@ -176,5 +176,5 @@ Hotels: <br/>
 
 # Instructors
 
-{% include feature_row id="instructor_row" type = "left"%}
+{% include feature_row id="instructor_row" layout = "full" %}
 
