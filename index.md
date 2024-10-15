@@ -53,8 +53,9 @@ instructor_row:
 
 # Call for Participation
 
+<div style = "font-size: small">
 We are thrilled to invite applications for the XR Research Methods Summer School, a five-day intensive program on 06-10 January 2025 at the University of Sydney. This program is designed for graduate students, researchers, and professionals eager to learn cutting-edge research methods in the rapidly evolving field of extended reality (XR), encompassing virtual, augmented, and mixed realities.
-
+</div>
 
 The program will cover:
 Developing theory in XR research
@@ -72,7 +73,7 @@ This summer school is ideal for:
 - Master’s or Honour’s students interested in pursuing a PhD related to XR.
 - Early-career researchers and academics looking to expand their methodological toolkit for XR research.
 
-Application deadline: 01/12/2024
+Application deadline: 01/12/2024 <br/>
 Notification: 07/12/2024
 
 ### What you need to apply
