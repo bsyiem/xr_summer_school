@@ -94,6 +94,6 @@ We will ask for the following information on a google form:
 # Schedule \& Modules
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
-| ---  | ---    | ---     | ---       | ---      | ---    |
+| ---  | :---:  | :---:   | :---:     | :---:    | :---:  |
 | 9:00-9:15 | Opening |
-| 9:15-10:45 | **Module 1: Philosophy of Science** </br>- Eduardo | **Module 5: Multiple regression** </br>- Eduardo | **Module 10 + 11: Finding interesting problems** </br>- Kasper | **ACTIVITY 4: Finishing Building** | **Module 13 and Activity 7** </br>- TODO | 
+| 9:15-10:45 | **Module 1: Philosophy of Science** <br/>- Eduardo | **Module 5: Multiple regression** <br/>- Eduardo | **Module 10 + 11: Finding interesting problems** <br/>- Kasper | **ACTIVITY 4: Finishing Building** | **Module 13 and Activity 7** <br/>- TODO | 
