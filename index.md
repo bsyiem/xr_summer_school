@@ -111,7 +111,6 @@ We will ask for the following information on a google form:
 | **15:15-16:45** | *Module 4 - Linear regression* <br/>- Eduardo | *Module 8 - Ordinal regression* <br/>- Eduardo | *ACTIVITY 2: Defining Methods and DAGs* | *ACTIVITY 6: Analysis* | *Module 16: Disseminating* <br/>- Instructor? |
 | **16:45-17:00** | | | ***Wrap up*** | | |
 | **18:30 onward** | *Harbour Walking Tour* | *Module 9 - Hierarchical models* <br/>- Eduardo | *ACTIVITY 3: Hacking a MVP* | | *Closing Dinner* |
----
 
 ## Modules
 
