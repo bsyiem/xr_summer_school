@@ -65,7 +65,7 @@ The program will cover:
 - ?
 
 
-<div style = "font-size: large"> Who Should Apply? </div>
+<div style = "font-size: x-large"> **Who Should Apply?** </div>
 
 This summer school is ideal for:
 
