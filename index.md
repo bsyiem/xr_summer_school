@@ -102,7 +102,7 @@ We will ask for the following information on a google form:
   - Which faculty?___
   - Who is your research supervisor? ___
  
-Apply [HERE](#xr-research-methods-summer-school)
+Apply <a href="#top">HERE</a>
 {: .notice}
 
 <br/>
