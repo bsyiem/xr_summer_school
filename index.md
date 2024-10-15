@@ -91,9 +91,9 @@ We will ask for the following information on a google form:
   - Which faculty?___
   - Who is your research supervisor? ___
 
-# Schedule & Modules
+# Schedule 
 
-## `Hands-On' Perspective
+***`Hands-On' Perspective***
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
 | ---  | ---    | ---     | ---       | ---      | ---    |
