@@ -91,9 +91,17 @@ We will ask for the following information on a google form:
   - Which faculty?___
   - Who is your research supervisor? ___
 
-# Schedule \& Modules
+# Schedule & Modules
+
+## `Hands-On' Perspective
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
 | ---  | ---    | ---     | ---       | ---      | ---    |
-| 9:00-9:15 | | | Opening | | |
-| 9:15-10:45 | **Module 1: Philosophy of Science** <br/>- Eduardo | **Module 5: Multiple regression** <br/>- Eduardo | **Module 10 + 11: Finding interesting problems** <br/>- Kasper | **ACTIVITY 4: Finishing Building** | **Module 13 and Activity 7** <br/>- TODO | 
+| 9:00-9:15 | | | ***Opening*** | | |
+| 9:15-10:45 | **Module 1: Philosophy of Science** <br/>- Eduardo | **Module 5: Multiple regression** <br/>- Eduardo | **Module 10 + 11: Finding interesting problems** <br/>- Kasper | **ACTIVITY 4: Finishing Building** | **Module 13 and Activity 7** <br/>- Instructor? |
+| 10:45-11:00 | | | ***Coffee break*** | | | 
+| 11:00-12:30 | **Module 2: Causal modelling** <br/>- Eduardo | **Module 6: Categorical Predictors** <br/>- Eduardo | **ACTIVITY 1: Idea Finding (w/ design thinking)** | **ACTIVITY 5a: Data Collection**  | **Module 14: Activity 8: Writing (Intro)** <br/>- Instructor? | 
+| 12:30-13:30 | | | ***Lunch*** | | | 
+| 13:30-15:00 | **Module 3: Data simulation** <br/>- Eduardo | **Module 7: Model comparison** <br/>- Eduardo | **Module 12: Picking a Method** <br/>- Joanna | **ACTIVITY 5b: Data Collection** | **Module 15 and Activity 9: Illustrating** <br/>- Instructor? |
+| 15:00-15:15 | | | ***Coffee break*** | | |
+| 15:15-16:45 | **Module 4 - Linear regression** <br/>- Eduardo | **Module 8 - Ordinal regression** <br/>- Eduardo | **ACTIVITY 2: Defining Methods and DAGs** | **ACTIVITY 6: Analysis** | **Module 16: Disseminating** <br/>- Instructor? |
