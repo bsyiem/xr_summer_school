@@ -17,7 +17,8 @@ feature_row:
     title: "Call"
     url: "#call-for-participation"
     btn_label: "Read More"
-    btn_class: "btn--primary" 
+    btn_class: "btn--primary"
+    width: 250 
   - image_path: /assets/feature_row/requirements.jpeg
     title: "Program"
     url: "#program"
@@ -31,12 +32,14 @@ feature_row:
 
 instructor_row:
   - image_path: /assets/instructors/eduardo.png
+    width: 250 
     title: "Prof. Eduardo Velloso (U. Sydney)"
     excerpt: "MINI BIO HERE"
     url: "https://www.eduardovelloso.com/"
     btn_label: "Visit Homepage"
     btn_class: "btn--primary"
   - image_path: /assets/instructors/kasper.png
+    width: 250 
     title: "Prof. Kasper Hornbæk (U. Copenhagen)"
     excerpt: "MINI BIO HERE"
     url: "https://www.kasperhornbaek.dk/"
