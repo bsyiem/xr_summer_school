@@ -33,6 +33,7 @@ instructor_row:
   - image_path: /assets/instructors/eduardo.png
     title: "Prof. Eduardo Velloso (U. Sydney)"
     excerpt: ""
+    url: "https://www.eduardovelloso.com/"
   - image_path: /assets/instructors/kasper.png
     title: "Prof. Kasper Hornbæk (U. Copenhagen)"
     excerpt: ""
@@ -160,5 +161,5 @@ Hotels: <br/>
 
 # Instructors
 
-{% include feature_row id="instructor_row" %}
+{% include feature_row id="instructor_row" type = "center"%}
 
