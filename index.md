@@ -68,8 +68,8 @@ We will ask for the following information on a google form:
 - Optional: A brief description of any ongoing or planned research in XR
 - Current occupation:
   - Bachelor’s/Honours, Master’s, PhD, Post-doc, Other______
--If enrolled in a degree or post-doc:
+- If enrolled in a degree or post-doc:
   - In which year are you?___
-- Which university?___
+  - Which university?___
   - Which faculty?___
   - Who is your research supervisor? ___
