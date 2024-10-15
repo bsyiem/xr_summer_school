@@ -33,15 +33,12 @@ instructor_row:
   - image_path: /assets/instructors/eduardo.png
     title: "Prof. Eduardo Velloso (U. Sydney)"
     excerpt: ""
-    
   - image_path: /assets/instructors/kasper.png
     title: "Prof. Kasper Hornbæk (U. Copenhagen)"
     excerpt: ""
-
   - image_path: /assets/instructors/joanna.png
     title: "A/Prof. Joanna Bergström (U. Copenhagen)"
     excerpt: ""
-    
   - image_path: /assets/instructors/jarrod.png
     title: "Dr Jarrod Knibbe (U. Queensland)"
     excerpt: ""
@@ -163,5 +160,5 @@ Hotels: <br/>
 
 # Instructors
 
-{% include feature_row id="instructor_row" type="justified" %}
+{% include feature_row id="instructor_row" %}
 
