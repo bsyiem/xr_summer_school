@@ -65,8 +65,7 @@ The program will cover:
 - ?
 
 
-<div style = "font-size: large; font-weight: bold"> Who Should Apply? </div>
----
+## Who Should Apply? 
 
 This summer school is ideal for:
 
@@ -161,3 +160,6 @@ Hotels: <br/>
 
 <br/>
 ---
+
+# Instructors
+
