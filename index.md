@@ -91,6 +91,8 @@ We will ask for the following information on a google form:
   - Which faculty?___
   - Who is your research supervisor? ___
 
+---
+
 # Schedule 
 
 ***`Hands-On' Perspective***
