@@ -10,6 +10,16 @@ header:
     - label: "Apply"
       url: "https://forms.office.com/r/SYGYqNJAEc"
 
+author_profile: true
+
+author:
+  name: "University of Sydney"
+  avatar: "/assets/logo/logo.png"
+  location: "Sydney, New South Wales"
+  links:
+    - label: "HCC group"
+      url: "https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/human-centred-computing-hcc.html"
+
 intro: 
   - excerpt: ''
 feature_row:
