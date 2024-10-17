@@ -1,14 +1,14 @@
 ---
 layout: single
 classes: wide
-title: "XR Research Methods Summer School"
+title: "Sydney XR Research Methods Summer School"
 excerpt: ""
 header:
   overlay_image: /assets/hero_image/4.jpeg
   overlay_filter: 0.5
   actions:
     - label: "Apply"
-      url: ""
+      url: "https://forms.office.com/r/SYGYqNJAEc"
 
 intro: 
   - excerpt: 'It is an incredibly exciting time for XR research! With immersive technologies rapidly advancing, we are at the brink of wider commercial adoption of MR and VR headsets. Research in this area can shape the future of how we work, learn, play, and socialise.'
@@ -58,10 +58,11 @@ The program will cover:
 - Developing theory in XR research 
 - Designing experiments
 - Measures and instruments for XR user experience evaluation
-- Bayesian data analysis methods
-- ?
-- ?
+- Quantitative data analysis with Bayesian methods
+- Qualitative data analysis with Thematic analysis
+- Presentation skills
 
+During the Summer School, students will work in groups in developing a new XR-related project, including identifying a problem, formulating research questions, developing a theory, simulating and analysing data, crafting a narrative, and presenting the findings.
 
 ## Who Should Apply? 
 
@@ -74,23 +75,8 @@ This summer school is ideal for:
 Application deadline: 01/12/2024 <br/>
 Notification: 07/12/2024
 
-## What you need to apply
-
-We will ask for the following information on a google form:
-
-- Name:
-- 2 page CV:
-- A statement of interest (max. 500 words), explaining your motivation for attending the summer school and how it aligns with your research or professional goals
-- Optional: A brief description of any ongoing or planned research in XR
-- Current occupation:
-  - Bachelor’s/Honours, Master’s, PhD, Post-doc, Other______
-- If enrolled in a degree or post-doc:
-  - In which year are you?___
-  - Which university?___
-  - Which faculty?___
-  - Who is your research supervisor? ___
  
-Apply <a href="#top">HERE</a>
+Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 {: .notice--danger}
 
 <br/>
