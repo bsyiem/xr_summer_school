@@ -19,6 +19,8 @@ author:
   links:
     - label: "HCC group"
       url: "https://www.sydney.edu.au/engineering/our-research/data-science-and-computer-engineering/human-centred-computing-hcc.html"
+    - label: "Apply"
+      url: "https://forms.office.com/r/SYGYqNJAEc"
 
 intro: 
   - excerpt: ''
