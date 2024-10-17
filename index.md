@@ -32,7 +32,6 @@ feature_row:
 
 gallery:
   - url: "https://www.eduardovelloso.com/"
-    target: "_blank"
     image_path: /assets/instructors/eduardo.png
     title: "Prof. Eduardo Velloso (U. Sydney)"
   - url: "https://www.kasperhornbaek.dk/"
