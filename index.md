@@ -137,15 +137,15 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 ## Logistics
 
-Venue: <br/>
+**Venue**: The 
 
-Public transport: <br/>
+**Public transport**: Public transport in Sydney (inc. buses, trains, trams, and ferries) accept all major credit cards. <br/>
 
-BIke share: <br/>
+**Bike share:** You can find Lime electric bikes for hire throughout the city.<br/>
 
-Taxis/Uber/Didi: <br/>
+**Car share**: Regular cabs, Uber, and Didi are available<br/>
 
-Hotels: <br/>
+**Hotels**: TBD <br/>
 
 <br/>
 ---
