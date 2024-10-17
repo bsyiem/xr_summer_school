@@ -11,11 +11,11 @@ plugins:
   - jekyll-target-blank
 
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
+#defaults:
+#  -
+#    scope:
+#      path: ""
+#      type: "pages"
 #    values:
 #      author_profile: true
 
