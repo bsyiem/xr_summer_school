@@ -103,29 +103,8 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 | **16:45-17:00** | | | ***Wrap up*** | | |
 | **18:30 onward** | *Harbour Walking Tour* | *Module 9 - Hierarchical models* <br/>- Eduardo | *ACTIVITY 3: Hacking a MVP* | | *Closing Dinner* |
 
-## Modules
 
-| Module | Title | Syllabus | Speaker |
-| ---    | ---   | ---      | ---     |
-| Module 1 | Philosophy of Science | Popper, Lakatos, Kuhn, induction, deduction, abduction | Eduardo |
-| Module 2 | Causal modelling | DAGs, d-separation | Eduardo |
-| Module 3 | Data simulation | Simulating data-generating processes in R | Eduardo |
-| Module 4 | Linear regression | Regression basics in brms and rethinking, Fitts law | Eduardo |
-| Module 5 | Multiple regression | Multiple continuous predictors | Eduardo |
-| Module 6 | Categorical predictors | Comparing input devices | Eduardo |
-| Module 7 | Model comparison | WAIC, PSIS, LOO | Eduardo |
-| Module 8 | Ordinal regression | Likert scales, cumulative probit models | Eduardo |
-| Module 9 | Hierarchical models | Partial pooling, random effects, repeated measures designs | Eduardo |
-| Module 10 | Methods: The big picture | Pluralism, validity, reliability, transparency, phenomena, theory, methodolog | Kasper |
-| Module 11 | Thinking tools for HCI | Problem solving, contribution types, implications, being wrong, being right | Kasper |
-| Module 12 | Better Use of Theory | | Kasper |
-| Module 13 | Building better | | Kasper |
-| Module 14 | Qualities of HCI in XR | Concepts involved in HCI research on XR and their relation to HCI in general and to application areas of XR (e.g., presence, agency, and body ownership; what is user experience in XR?) | Joanna |
-| Module 15 | Experimental Paradigms and Measures for XR research | From task performance to the above-mentioned qualities | Joanna |
-| Module 16 | Something on qualitative/thematic analysis, etc?  | | Any takers? |
-| Module 17 | Ethics? Or too boring? | | Any takers? |
-
-## Reading
+## Readings
 
 | Reading | Spaeker | Module | Pages | Required |
 | ---    | ---   | ---      | ---     | ---     |
