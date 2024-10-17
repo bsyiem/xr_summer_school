@@ -11,7 +11,7 @@ header:
       url: "https://forms.office.com/r/SYGYqNJAEc"
 
 intro: 
-  - excerpt: 'It is an incredibly exciting time for XR research! With immersive technologies rapidly advancing, we are at the brink of wider commercial adoption of MR and VR headsets. Research in this area can shape the future of how we work, learn, play, and socialise.'
+  - excerpt: ''
 feature_row:
   - image_path: /assets/feature_row/call.jpeg
     title: "Call"
@@ -50,6 +50,8 @@ gallery:
 {% include feature_row %}
 
 # Call for Participation 
+
+It is an incredibly exciting time for XR research! With immersive technologies rapidly advancing, we are at the brink of wider commercial adoption of MR and VR headsets. Research in this area can shape the future of how we work, learn, play, and socialise.
 
 We are thrilled to invite applications for the XR Research Methods Summer School, a five-day intensive program on 06-10 January 2025 at the University of Sydney. This program is designed for graduate students, researchers, and professionals eager to learn cutting-edge research methods in the rapidly evolving field of extended reality (XR), encompassing virtual, augmented, and mixed realities.
 
