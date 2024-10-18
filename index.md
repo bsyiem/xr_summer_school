@@ -139,7 +139,14 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
   </tr>
 </table>
 
-***`Hands-On' Perspective***
+| Schedule | | | |
+| :--- | :--- | :--- | :--- |
+| Day 1 | 1. Philosophy | 2,3. Qualitative analysis | 4. Quantitative analysis |
+| Day 2 | Quantitative analysis | | |
+| Day 3 | Research problems and methodology | | |
+| Day 4 | Paper Planning | | |
+| Day 5| Theory and theorising | | Presentations|
+
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
 | ---  | ---    | ---     | ---       | ---      | ---    |
@@ -175,8 +182,11 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 **Car share**: Regular cabs, Uber, and Didi are available<br/>
 
-**Hotels**: [The Village Hostels](https://thevillagehostels.com.au/glebe/) <br/>
+**Hotels**: Sydney has plenty of accommadation options. Below are a few that are closer to the venue
+- Budget Friendly: [The Village Hostels](https://thevillagehostels.com.au/glebe/), [Mad Monkey] (https://www.madmonkey.com.au/locations/australia/sydney/mad-monkey-broadway)
+- Standard: [Veriu Camperdown] {https://veriu.com.au/hotels/veriu-camperdown/}, [Mercury Sydney] {https://all.accor.com/hotel/2073/index.en.shtml?goto=fiche_hotel&code_hotel=2073&merchantid=seo-maps-AU-2073&sourceid=aw-cen}
 
+<br/>
 <br/>
 ---
 
