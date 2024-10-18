@@ -118,10 +118,6 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 # Program 
 
-## Schedule
-
-
-
 <table style = "width:100%">
   <thead>
     <th colspan = "4">Schedule</th>
@@ -179,7 +175,7 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 **Car share**: Regular cabs, Uber, and Didi are available<br/>
 
-**Hotels**: TBD <br/>
+**Hotels**: [The Village Hostels](https://thevillagehostels.com.au/glebe/) <br/>
 
 <br/>
 ---
