@@ -68,7 +68,7 @@ instructor_row:
   - url: "https://www.kasperhornbaek.dk/"
     image_path: /assets/instructors/adjusted/kasper-large.jpeg
     title: "Prof. Kasper Hornbæk (U. Copenhagen)"
-    excerpt: "Kasper Hornbæk received his M.Sc. and Ph.D. in Computer Science from the University of Copenhagen in 1998 and 2002, respectively. He has been Professor of Computer Science at the University of Copenhagen since 2014. His research interests include user experience, extended reality, theory building and haptic technology. He is an co-editor of ACM Transactions on Human-Computer Interaction and has served as an associate chair of the ACM Conference on Human Factors in Computing, CHI for more than 10 years. He was inducted into the CHI Academy in 2020."
+    excerpt: "Kasper has been a Professor of Computer Science at the University of Copenhagen since 2014. His research interests include user experience, extended reality, theory building and haptic technology. He was inducted into the CHI Academy in 2020."
     btn_label: "Read More"
     btn_class: "btn--primary"
   - url: "https://researchprofiles.ku.dk/en/persons/joanna-bergstr%C3%B6m"
@@ -80,8 +80,7 @@ instructor_row:
   - url: "https://www.jarrodknibbe.info/"
     image_path: /assets/instructors/adjusted/jarrod-large.jpg
     title: "Dr Jarrod Knibbe (U. Queensland)"
-    excerpt: "Jarrod Knibbe is a researcher in Interaction Design, building new interactive devices and seeking to understand the experience of using those devices. He is a future technologist and pursues technology-first human-computer interaction - building and exploring novel tech that may later provide solutions to human-centred problems. He has a special interest in Haptics for Extended Reality and Smart Clothing for Muscle Control. His research typically involves device design and engineering, studies of human perception, and user experience explorations of new technologies.
-He has published over 40 peer-reviewed articles across top venues in Human-Computer Interaction, including CHI, UIST, CSCW, and ISMAR. He serves frequently as an associate editor for CHI, UIST, VR, and ISS."
+    excerpt: "Jarrod Knibbe is a Senior Lecturer in Interaction Design at the University of Queenland, building new interactive devices and seeking to understand the experience of using those devices. His research typically involves device design and engineering, studies of human perception, and user experience explorations of new technologies."
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
