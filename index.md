@@ -63,18 +63,26 @@ instructor_row:
     image_path: /assets/instructors/adjusted/eduardo-large.jpg
     title: "Prof. Eduardo Velloso (U. Sydney)"
     excerpt: "velloso bio"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - url: "https://www.kasperhornbaek.dk/"
     image_path: /assets/instructors/adjusted/kasper-large.jpeg
     title: "Prof. Kasper Hornbæk (U. Copenhagen)"
     excerpt: "Hornbæk bio"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - url: "https://researchprofiles.ku.dk/en/persons/joanna-bergstr%C3%B6m"
     image_path: /assets/instructors/adjusted/joanna-large.png
     title: "A/Prof. Joanna Bergström (U. Copenhagen)"
     excerpt: "Bergström bio"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - url: "https://www.jarrodknibbe.info/"
     image_path: /assets/instructors/adjusted/jarrod-large.jpg
     title: "Dr Jarrod Knibbe (U. Queensland)"
     excerpt: "Knibbe bio"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="justified" %}
