@@ -202,5 +202,5 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 # Instructors
 
-{% include feature_row id = "instructor_row" type = "justified"%}
+{% include feature_row id = "instructor_row" type = "left"%}
 
