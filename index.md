@@ -120,7 +120,7 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 <table style = "width:100%">
   <thead>
-    <th colspan = "4">Schedule</th>
+    <th colspan = "4">Schedule &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
   </thead>
   <tr>
     <td> Day 1 </td><td> 1. Philosophy </td> <td> 2,3. Qualitative analysis </td> <td> 4. Quantitative analysis</td>
