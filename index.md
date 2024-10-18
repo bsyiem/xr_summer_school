@@ -139,6 +139,7 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
   </tr>
 </table>
 
+<!--
 | Schedule | | | |
 | :--- | :--- | :--- | :--- |
 | Day 1 | 1. Philosophy | 2,3. Qualitative analysis | 4. Quantitative analysis |
@@ -161,6 +162,7 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 | **16:45-17:00** | | | ***Wrap up*** | | |
 | **18:30 onward** | *Harbour Walking Tour* | *Module 9 - Hierarchical models* <br/>- Eduardo | *ACTIVITY 3: Hacking a MVP* | | *Closing Dinner* |
 
+-->
 
 ## Readings
 
