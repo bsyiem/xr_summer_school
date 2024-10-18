@@ -186,7 +186,7 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 | **15:00-15:15** | | | ***Coffee break*** | | |
 | **15:15-16:45** | Quantitative analysis | Quantitative analysis | Research problems and methodology | Paper Planning | Presentations |
 | **16:45-17:00** | | | ***Wrap up*** | | |
-| **18:30 onward** | *Harbour Walking Tour* | *Module 9 - Hierarchical models* <br/>- Eduardo | *ACTIVITY 3: Hacking a MVP* | | *Closing Dinner* |
+| **18:30 onward** | *Harbour Walking Tour* | | | | *Closing Dinner* |
 
 ## Readings
 
