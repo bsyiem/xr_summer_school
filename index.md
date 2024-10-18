@@ -52,6 +52,7 @@ gallery:
   - url: "https://researchprofiles.ku.dk/en/persons/joanna-bergstr%C3%B6m"
     image_path: /assets/instructors/joanna.png
     title: "A/Prof. Joanna Bergström (U. Copenhagen)"
+  - title: ""
   - url: "https://www.jarrodknibbe.info/"
     image_path: /assets/instructors/jarrod.png
     title: "Dr Jarrod Knibbe (U. Queensland)"
