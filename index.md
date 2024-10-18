@@ -42,21 +42,39 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-gallery:
+#gallery:
+#  - url: "https://www.eduardovelloso.com/"
+#    image_path: /assets/instructors/eduardo.png
+#    title: "Prof. Eduardo Velloso (U. Sydney)"
+#  - url: "https://www.kasperhornbaek.dk/"
+#    image_path: /assets/instructors/kasper.png
+#    title: "Prof. Kasper Hornbæk (U. Copenhagen)"
+#  - url: "https://researchprofiles.ku.dk/en/persons/joanna-bergstr%C3%B6m"
+#    image_path: /assets/instructors/joanna.png
+#    title: "A/Prof. Joanna Bergström (U. Copenhagen)"
+#  - 
+#  - url: "https://www.jarrodknibbe.info/"
+#    image_path: /assets/instructors/jarrod.png
+#    title: "Dr Jarrod Knibbe (U. Queensland)"
+#  -
+
+instructor_row:
   - url: "https://www.eduardovelloso.com/"
     image_path: /assets/instructors/eduardo.png
     title: "Prof. Eduardo Velloso (U. Sydney)"
+    excerpt: "velloso bio"
   - url: "https://www.kasperhornbaek.dk/"
     image_path: /assets/instructors/kasper.png
     title: "Prof. Kasper Hornbæk (U. Copenhagen)"
+    excerpt: "Hornbæk bio"
   - url: "https://researchprofiles.ku.dk/en/persons/joanna-bergstr%C3%B6m"
     image_path: /assets/instructors/joanna.png
     title: "A/Prof. Joanna Bergström (U. Copenhagen)"
-  - 
+    excerpt: "Bergström bio"
   - url: "https://www.jarrodknibbe.info/"
     image_path: /assets/instructors/jarrod.png
     title: "Dr Jarrod Knibbe (U. Queensland)"
-  -
+    excerpt: "Knibbe bio"
 ---
 
 {% include feature_row id="intro" type="justified" %}
@@ -145,5 +163,5 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 # Instructors
 
-{% include gallery %}
+{% include feature_row id = "instructor_row" type = "center"%}
 
