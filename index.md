@@ -60,19 +60,19 @@ feature_row:
 
 instructor_row:
   - url: "https://www.eduardovelloso.com/"
-    image_path: /assets/instructors/eduardo-larger.jpg
+    image_path: /assets/instructors/adjusted/eduardo-large.jpg
     title: "Prof. Eduardo Velloso (U. Sydney)"
     excerpt: "velloso bio"
   - url: "https://www.kasperhornbaek.dk/"
-    image_path: /assets/instructors/kasper-large.jpeg
+    image_path: /assets/instructors/adjusted/kasper-large.jpeg
     title: "Prof. Kasper Hornbæk (U. Copenhagen)"
     excerpt: "Hornbæk bio"
   - url: "https://researchprofiles.ku.dk/en/persons/joanna-bergstr%C3%B6m"
-    image_path: /assets/instructors/joanna-large.png
+    image_path: /assets/instructors/adjusted/joanna-large.png
     title: "A/Prof. Joanna Bergström (U. Copenhagen)"
     excerpt: "Bergström bio"
   - url: "https://www.jarrodknibbe.info/"
-    image_path: /assets/instructors/jarrod-large.jpg
+    image_path: /assets/instructors/adjusted/jarrod-large.jpg
     title: "Dr Jarrod Knibbe (U. Queensland)"
     excerpt: "Knibbe bio"
 ---
@@ -120,7 +120,7 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 <table style = "width:100%">
   <thead>
-    <th colspan = "4">Schedule                                                                                                         </th>
+    <th colspan = "4"> Schedule </th>
   </thead>
   <tr>
     <td> Day 1 </td><td> 1. Philosophy </td> <td> 2,3. Qualitative analysis </td> <td> 4. Quantitative analysis</td>
@@ -185,8 +185,8 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 **Car share**: Regular cabs, Uber, and Didi are available<br/>
 
 **Hotels**: Sydney has plenty of accommadation options. Below are a few that are closer to the venue
-- Budget Friendly: [The Village Hostels](https://thevillagehostels.com.au/glebe/), [Mad Monkey] (https://www.madmonkey.com.au/locations/australia/sydney/mad-monkey-broadway)
-- Standard: [Veriu Camperdown] {https://veriu.com.au/hotels/veriu-camperdown/}, [Mercury Sydney] {https://all.accor.com/hotel/2073/index.en.shtml?goto=fiche_hotel&code_hotel=2073&merchantid=seo-maps-AU-2073&sourceid=aw-cen}
+- Budget Friendly: [The Village Hostels](https://thevillagehostels.com.au/glebe/), [Mad Monkey](https://www.madmonkey.com.au/locations/australia/sydney/mad-monkey-broadway)
+- Standard: [Veriu Camperdown](https://veriu.com.au/hotels/veriu-camperdown/), [Mercury Sydney](https://all.accor.com/hotel/2073/index.en.shtml?goto=fiche_hotel&code_hotel=2073&merchantid=seo-maps-AU-2073&sourceid=aw-cen)
 
 <br/>
 <br/>
