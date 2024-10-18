@@ -120,6 +120,22 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 ## Schedule
 
+Day 1: Philosophy -> 2,3 qualitative analysis -> 4 Quantitative analysis
+Day 2: Quantitative analysis
+Day 3: Research problems and methodology
+Day 4: Paper planning
+Day 5: Theory and theorising -> Presentations
+
+
+<table>
+  <tr>
+    <td> Day 1 </td><td> 1. Philosophy </td> <td> 2,3. Qualitative analysis </td> <td> 4. Quantitative analysis</td>
+  </tr>
+  <tr>
+    <td> Day 2 </td><td colspan = "3"> Quantitative analysis </td>
+  </tr>
+</table>
+
 ***`Hands-On' Perspective***
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
