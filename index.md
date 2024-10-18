@@ -44,7 +44,7 @@ feature_row:
 
 #gallery:
 #  - url: "https://www.eduardovelloso.com/"
-#    image_path: /assets/instructors/eduardo.png
+#    image_path: /assets/instructors/adjusted/eduardo.png
 #    title: "Prof. Eduardo Velloso (U. Sydney)"
 #  - url: "https://www.kasperhornbaek.dk/"
 #    image_path: /assets/instructors/kasper.png
@@ -60,19 +60,19 @@ feature_row:
 
 instructor_row:
   - url: "https://www.eduardovelloso.com/"
-    image_path: /assets/instructors/eduardo.png
+    image_path: /assets/instructors/eduardo-larger.jpg
     title: "Prof. Eduardo Velloso (U. Sydney)"
     excerpt: "velloso bio"
   - url: "https://www.kasperhornbaek.dk/"
-    image_path: /assets/instructors/kasper.png
+    image_path: /assets/instructors/kasper-large.jpeg
     title: "Prof. Kasper Hornbæk (U. Copenhagen)"
     excerpt: "Hornbæk bio"
   - url: "https://researchprofiles.ku.dk/en/persons/joanna-bergstr%C3%B6m"
-    image_path: /assets/instructors/joanna.png
+    image_path: /assets/instructors/joanna-large.png
     title: "A/Prof. Joanna Bergström (U. Copenhagen)"
     excerpt: "Bergström bio"
   - url: "https://www.jarrodknibbe.info/"
-    image_path: /assets/instructors/jarrod.png
+    image_path: /assets/instructors/jarrod-large.jpg
     title: "Dr Jarrod Knibbe (U. Queensland)"
     excerpt: "Knibbe bio"
 ---
@@ -120,7 +120,7 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 <table style = "width:100%">
   <thead>
-    <th colspan = "4">Schedule &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
+    <th colspan = "4">Schedule                                                                                                         </th>
   </thead>
   <tr>
     <td> Day 1 </td><td> 1. Philosophy </td> <td> 2,3. Qualitative analysis </td> <td> 4. Quantitative analysis</td>
