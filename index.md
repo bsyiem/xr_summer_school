@@ -120,14 +120,9 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 ## Schedule
 
-Day 1: Philosophy -> 2,3 qualitative analysis -> 4 Quantitative analysis
-Day 2: Quantitative analysis
-Day 3: Research problems and methodology
-Day 4: Paper planning
-Day 5: Theory and theorising -> Presentations
 
 
-<table width = "100%">
+<table style = "width:100%">
   <thead>
     <th colspan = "4">Schedule</th>
   </thead>
