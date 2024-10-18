@@ -61,7 +61,7 @@ feature_row:
 instructor_row:
   - url: "https://www.eduardovelloso.com/"
     image_path: /assets/instructors/eduardo.png
-    image_caption: "Prof. Eduardo Velloso (U. Sydney)"
+    title: "Prof. Eduardo Velloso (U. Sydney)"
     excerpt: "velloso bio"
   - url: "https://www.kasperhornbaek.dk/"
     image_path: /assets/instructors/kasper.png
@@ -127,7 +127,10 @@ Day 4: Paper planning
 Day 5: Theory and theorising -> Presentations
 
 
-<table>
+<table width = "100%">
+  <thead>
+    <th colspan = "4">Schedule</th>
+  </thead>
   <tr>
     <td> Day 1 </td><td> 1. Philosophy </td> <td> 2,3. Qualitative analysis </td> <td> 4. Quantitative analysis</td>
   </tr>
