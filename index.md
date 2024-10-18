@@ -68,19 +68,20 @@ instructor_row:
   - url: "https://www.kasperhornbaek.dk/"
     image_path: /assets/instructors/adjusted/kasper-large.jpeg
     title: "Prof. Kasper Hornbæk (U. Copenhagen)"
-    excerpt: "Hornbæk bio"
+    excerpt: "Kasper Hornbæk received his M.Sc. and Ph.D. in Computer Science from the University of Copenhagen in 1998 and 2002, respectively. He has been Professor of Computer Science at the University of Copenhagen since 2014. His research interests include user experience, extended reality, theory building and haptic technology. He is an co-editor of ACM Transactions on Human-Computer Interaction and has served as an associate chair of the ACM Conference on Human Factors in Computing, CHI for more than 10 years. He was inducted into the CHI Academy in 2020."
     btn_label: "Read More"
     btn_class: "btn--primary"
   - url: "https://researchprofiles.ku.dk/en/persons/joanna-bergstr%C3%B6m"
     image_path: /assets/instructors/adjusted/joanna-large.png
     title: "A/Prof. Joanna Bergström (U. Copenhagen)"
-    excerpt: "Bergström bio"
+    excerpt: "Joanna Bergström is an Associate Professor at the Department of Computer Science at the University of Copenhagen. Her research is in human–computer interaction, currently focusing on virtual reality and body-based user interfaces. I am interested in experimental methods in HCI, human perception and motor skills, statistical modeling, and interaction techniques."
     btn_label: "Read More"
     btn_class: "btn--primary"
   - url: "https://www.jarrodknibbe.info/"
     image_path: /assets/instructors/adjusted/jarrod-large.jpg
     title: "Dr Jarrod Knibbe (U. Queensland)"
-    excerpt: "Knibbe bio"
+    excerpt: "Jarrod Knibbe is a researcher in Interaction Design, building new interactive devices and seeking to understand the experience of using those devices. He is a future technologist and pursues technology-first human-computer interaction - building and exploring novel tech that may later provide solutions to human-centred problems. He has a special interest in Haptics for Extended Reality and Smart Clothing for Muscle Control. His research typically involves device design and engineering, studies of human perception, and user experience explorations of new technologies.
+He has published over 40 peer-reviewed articles across top venues in Human-Computer Interaction, including CHI, UIST, CSCW, and ISMAR. He serves frequently as an associate editor for CHI, UIST, VR, and ISS."
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -126,6 +127,7 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 # Program 
 
+<!--
 <table style = "width:100%">
   <thead>
     <th colspan = "4"> Schedule </th>
@@ -147,7 +149,7 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
   </tr>
 </table>
 
-<!--
+
 | Schedule | | | |
 | :--- | :--- | :--- | :--- |
 | Day 1 | 1. Philosophy | 2,3. Qualitative analysis | 4. Quantitative analysis |
@@ -155,7 +157,6 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 | Day 3 | Research problems and methodology | | |
 | Day 4 | Paper Planning | | |
 | Day 5| Theory and theorising | | Presentations|
-
 
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday |
 | ---  | ---    | ---     | ---       | ---      | ---    |
@@ -171,6 +172,21 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 | **18:30 onward** | *Harbour Walking Tour* | *Module 9 - Hierarchical models* <br/>- Eduardo | *ACTIVITY 3: Hacking a MVP* | | *Closing Dinner* |
 
 -->
+
+## Schedule
+
+| Time | Monday | Tuesday | Wednesday | Thursday | Friday |
+| ---  | ---    | ---     | ---       | ---      | ---    |
+| **9:00-9:15** | | | ***Opening*** | | |
+| **9:15-10:45** | Philosophy | Quantitative analysis | *Research problems and methodology | Paper Planning | Theory and theorising |
+| **10:45-11:00** | | | ***Coffee break*** | | | 
+| **11:00-12:30** | Qualitative analysis | *Quantitative analysis | Research problems and methodology | Paper Planning  | Theory and theorising | 
+| **12:30-13:30** | | | ***Lunch*** | | | 
+| **13:30-15:00** | Qualitative analysis | Quantitative analysis | Research problems and methodology | Paper Planning | Presentations |
+| **15:00-15:15** | | | ***Coffee break*** | | |
+| **15:15-16:45** | Quantitative analysis | Quantitative analysis | Research problems and methodology | Paper Planning | Presentations |
+| **16:45-17:00** | | | ***Wrap up*** | | |
+| **18:30 onward** | *Harbour Walking Tour* | *Module 9 - Hierarchical models* <br/>- Eduardo | *ACTIVITY 3: Hacking a MVP* | | *Closing Dinner* |
 
 ## Readings
 
