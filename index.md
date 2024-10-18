@@ -176,7 +176,7 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 ## Logistics
 
-**Venue**: The 
+**Venue**: Will be updated soon! 
 
 **Public transport**: Public transport in Sydney (inc. buses, trains, trams, and ferries) accept all major credit cards. <br/>
 
