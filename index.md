@@ -62,7 +62,7 @@ instructor_row:
   - url: "https://www.eduardovelloso.com/"
     image_path: /assets/instructors/adjusted/eduardo-large.jpg
     title: "Prof. Eduardo Velloso (U. Sydney)"
-    excerpt: "velloso bio"
+    excerpt: "Eduardo Velloso is a Professor of Computer Science at the University of Sydney. His practice and research focus on interaction design for emerging technologies. I am interested in the novel user experiences that are enabled by the combination of novel input and sensing modalities, the design of new interaction devices and techniques, and the use of artificial intelligence and machine learning in interactive systems."
     btn_label: "Read More"
     btn_class: "btn--primary"
   - url: "https://www.kasperhornbaek.dk/"
