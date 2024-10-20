@@ -95,6 +95,8 @@ It is an incredibly exciting time for XR research! With immersive technologies r
 
 We are thrilled to invite applications for the XR Research Methods Summer School, a five-day intensive program on 06-10 January 2025 at the University of Sydney. This program is designed for graduate students, researchers, and professionals eager to learn cutting-edge research methods in the rapidly evolving field of extended reality (XR), encompassing virtual, augmented, and mixed realities.
 
+The event is being generously sponsored by The University of Sydney's School of Computer Science, so registrations will be free.
+
 
 The program will cover:
 - Developing theory in XR research 
@@ -187,15 +189,6 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 | **16:45-17:00** | | | ***Wrap up*** | | |
 | **18:30 onward** | *Harbour Walking Tour* | | | | *Closing Dinner* |
 
-## Readings
-
-| Reading | Spaeker | Module | Pages | Required |
-| ---    | ---   | ---      | ---     | ---     |
-| Velloso and Hornbaek - Theorising in HCI with causal models | Eduardo | 2 | | Yes |
-| Velloso - Quantitative research methods for Human-Computer Interaction (book draft) | Eduardo | 1-9 | | Yes |
-| Oulasvirta and Hornbæk: HCI as problem solving | Kasper | | | Yes |
-| McGrath: Methodology Matters | Kasper | | | Yes |
-| Hornbæk et al. User Research in HCI | Kasper | | | Yes |
 
 ## Logistics
 
