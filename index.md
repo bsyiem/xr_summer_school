@@ -83,6 +83,14 @@ instructor_row:
     excerpt: "Jarrod Knibbe is a Senior Lecturer in Interaction Design at the University of Queenland, building new interactive devices and seeking to understand the experience of using those devices. His research typically involves device design and engineering, studies of human perception, and user experience explorations of new technologies."
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+oc_row:
+  - url: "https://scholar.google.com.au/citations?user=NLv_1gMAAAAJ&hl=en&oi=ao"
+    image_path: /assets/organizing_only/brandon.jpg
+    title: "Dr. Brandon Syiem (U. Sydney)"
+    excerpt: "Brandon is a postdoctoral research fellow at the University of Sydney. His research interests lie in the intersection of extended reality, cognitive psychology, and Intelligent adaptive systems."
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="justified" %}
@@ -211,4 +219,8 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 # Instructors
 
 {% include feature_row id = "instructor_row" type = "left"%}
+
+# Local Chair
+
+{% include feature_row id = "oc_row" type = "left"%}
 
