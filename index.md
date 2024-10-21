@@ -88,7 +88,7 @@ oc_row:
   - url: "https://scholar.google.com.au/citations?user=NLv_1gMAAAAJ&hl=en&oi=ao"
     image_path: /assets/organizing_only/brandon.jpg
     title: "Dr. Brandon Syiem (U. Sydney)"
-    excerpt: "Brandon is a postdoctoral research fellow at the University of Sydney. His research interests lie in the intersection of extended reality, cognitive psychology, and Intelligent adaptive systems."
+    excerpt: "Brandon is a postdoctoral research fellow at the University of Sydney. His research interests lie at the intersection of extended reality, cognitive psychology, and Intelligent adaptive systems."
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
