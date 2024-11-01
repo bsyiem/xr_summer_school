@@ -200,7 +200,7 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 
 ## Logistics
 
-**Venue**: Will be updated soon! 
+**Venue**: H70 Abercrombie Building, University of Sydney, Darlington NSW 2008, Room details: H70.03.3003 ABS Seminar Room 3003   
 
 **Public transport**: Public transport in Sydney (inc. buses, trains, trams, and ferries) accept all major credit cards. <br/>
 
@@ -211,6 +211,7 @@ Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 **Hotels**: Sydney has plenty of accommadation options. Below are a few that are closer to the venue
 - Budget Friendly: [The Village Hostels](https://thevillagehostels.com.au/glebe/), [Mad Monkey](https://www.madmonkey.com.au/locations/australia/sydney/mad-monkey-broadway)
 - Standard: [Veriu Camperdown](https://veriu.com.au/hotels/veriu-camperdown/), [Mercury Sydney](https://all.accor.com/hotel/2073/index.en.shtml?goto=fiche_hotel&code_hotel=2073&merchantid=seo-maps-AU-2073&sourceid=aw-cen)
+- Residential College Short Stays: Enquire with the chosen college listed [here](https://www.sydney.edu.au/study/accommodation/camperdown-darlington/residential-colleges.html)  
 
 <br/>
 <br/>
