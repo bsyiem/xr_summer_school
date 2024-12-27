@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "Apply"
-      url: "https://forms.office.com/r/SYGYqNJAEc"
+      url: # # "https://forms.office.com/r/SYGYqNJAEc"
 
 author_profile: true
 
@@ -127,9 +127,13 @@ This summer school is ideal for:
 Application deadline: 01/12/2024 <br/>
 Notification: 07/12/2024
 
- 
 Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
 {: .notice--danger}
+
+<!--
+Apply <a href="https://forms.office.com/r/SYGYqNJAEc">HERE</a>
+{: .notice--danger}
+-->
 
 <br/>
 ---
